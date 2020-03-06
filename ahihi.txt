@@ -22,3 +22,10 @@ git branch -D branchName // Xoa branch
 git reset --soft
 git reset --mixed
 git reset --hard
+
+.gitignore
+
+github:
+	+ git remote add origin <link>
+	+ git remote -v
+	+ git push -u origin master
