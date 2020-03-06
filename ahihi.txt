@@ -15,4 +15,10 @@ git restore
 
 git checkout -b <branch>
 git checkout <branch>
-git merge
+git merge b
+
+git branch -D branchName // Xoa branch
+
+git reset --soft
+git reset --mixed
+git reset --hard
