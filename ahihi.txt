@@ -29,3 +29,36 @@ github:
 	+ git remote add origin <link>
 	+ git remote -v
 	+ git push -u origin master
+	+ git clone <link>
+	+ git pull 
+
+	+ pull request:
+	1. git checkout -b
+	2. git push origin branch
+	3. create a pull request on github
+	4. review code
+	5. merge to master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
